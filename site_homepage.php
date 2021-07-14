@@ -34,7 +34,7 @@
         <?php echo file_get_contents ("data/".$_GET["id"]);
           ?></h3>
          <div id="disqus_thread"></div>
-        <!-- ?php echo nl2br? -->
+        <!-- ?php echo nl2br? --> <!--줄 띄움-->
         <script>
 
         /**
